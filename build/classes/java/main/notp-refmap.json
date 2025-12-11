@@ -1,0 +1,14 @@
+{
+  "mappings": {
+    "net/milkucha/notp/mixin/TeleportCommandMixin": {
+      "teleport(Lnet/minecraft/server/command/ServerCommandSource;Lnet/minecraft/entity/Entity;Lnet/minecraft/server/world/ServerWorld;DDDLjava/util/Set;FFLnet/minecraft/server/command/TeleportCommand$LookTarget;)V": "Lnet/minecraft/class_3143;method_13766(Lnet/minecraft/class_2168;Lnet/minecraft/class_1297;Lnet/minecraft/class_3218;DDDLjava/util/Set;FFLnet/minecraft/class_3143$class_3144;)V"
+    }
+  },
+  "data": {
+    "named:intermediary": {
+      "net/milkucha/notp/mixin/TeleportCommandMixin": {
+        "teleport(Lnet/minecraft/server/command/ServerCommandSource;Lnet/minecraft/entity/Entity;Lnet/minecraft/server/world/ServerWorld;DDDLjava/util/Set;FFLnet/minecraft/server/command/TeleportCommand$LookTarget;)V": "Lnet/minecraft/class_3143;method_13766(Lnet/minecraft/class_2168;Lnet/minecraft/class_1297;Lnet/minecraft/class_3218;DDDLjava/util/Set;FFLnet/minecraft/class_3143$class_3144;)V"
+      }
+    }
+  }
+}

@@ -1,0 +1,14 @@
+{
+	"required": true,
+	"package": "net.milkucha.notp.mixin",
+	"compatibilityLevel": "JAVA_17",
+	"mixins": [
+		"TeleportCommandMixin"
+	],
+	"injectors": {
+		"defaultRequire": 1
+	},
+	"overwrites": {
+		"requireAnnotations": true
+	}
+}

@@ -1,0 +1,37 @@
+{
+	"schemaVersion": 1,
+	"id": "notp",
+	"version": "${version}",
+	"name": "notp",
+	"description": "(Dis)allow teleporting in specific regions of your world!",
+	"authors": [
+		"milkucha"
+	],
+	"contact": {
+		"homepage": "https://milkucha.github.io/",
+		"sources": "https://github.com/milkucha"
+	},
+	"license": "CC0-1.0",
+	"icon": "assets/notp/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"net.milkucha.notp.Notp"
+		],
+		"fabric-datagen": [
+			"net.milkucha.notp.NotpDataGenerator"
+		]
+	},
+	"mixins": [
+		"notp.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.15.1",
+		"minecraft": "~1.20.1",
+		"java": ">=17",
+		"fabric-api": "*"
+	},
+	"suggests": {
+		"another-mod": "*"
+	}
+}

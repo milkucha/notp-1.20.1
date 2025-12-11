@@ -1,0 +1,50 @@
+/tp 49 100 49
+/tp 49 100 50
+/summon minecraft:armor_stand
+/tp Player916 @e[type=armor_stand,limit=1]
+/summon minecraft:armor_stand
+/tp Player916 @e[type=armor_stand,limit=1]
+/summon minecraft:armor_stand
+/tp Player916 @e[type=armor_stand,limit=1]
+/tp 49 100 49
+/tp Player467 @e[type=armor_stand,limit=1]
+/tp 49 100 49
+/tp Player318 @e[type=armor_stand,limit=1]
+/tp 39 100 39
+/tp Player612 @e[type=armor_stand,limit=1]
+/tp 201 100 201
+/tp 39 100 39
+/tp 51 100 51
+/tp Player96 @e[type=armor_stand,limit=1]
+/tp Player432 @e[type=armor_stand,limit=1]
+/tp 49 100 49
+/tp 30 100 30
+/tp Player432 @e[type=armor_stand,limit=1]
+/tp 250 100 250
+/summon minecraft:armor_stand
+/tp Player432 @e[type=armor_stand,limit=1]
+/tp 250 100 190
+/tp 50 100 50
+/tp 49 100 49
+/tp 250 100 250
+/tp Player432 @e[type=armor_stand,limit=1]
+/tp 201 100 201
+/tp 50 100 50
+/tp 40 100 40
+/tp 250 100 250
+/tp 201 100 201
+/tp 202 100 202
+/tp 40 100 40
+/tp Player645 @e[type=armor_stand,limit=1]
+/weather clear
+/time set 0
+/tp Player645 @e[type=armor_stand,limit=1]
+/tp 30 100 30
+/tp Player645 @e[type=armor_stand,limit=1]
+/tp Player645 @e[type=armor_stand,limit=1,sort=nearest]
+/tp 240 100 240
+/tp 400 100 400
+/tp 201 100 201
+/tp Player184 @e[type=armor_stand,limit=1]
+/tp 30 100 30
+/tp 50 100 50

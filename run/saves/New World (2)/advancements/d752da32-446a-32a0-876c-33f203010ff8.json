@@ -1,0 +1,76 @@
+{
+  "minecraft:recipes/transportation/mangrove_boat": {
+    "criteria": {
+      "in_water": "2025-12-10 17:52:20 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2025-12-10 17:52:03 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_boat": {
+    "criteria": {
+      "in_water": "2025-12-10 17:52:20 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/cherry_boat": {
+    "criteria": {
+      "in_water": "2025-12-10 17:52:20 +0530"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:cold_ocean": "2025-12-10 17:55:27 +0530",
+      "minecraft:frozen_ocean": "2025-12-10 17:52:04 +0530",
+      "minecraft:beach": "2025-12-10 17:55:26 +0530",
+      "minecraft:frozen_river": "2025-12-10 17:55:13 +0530",
+      "minecraft:taiga": "2025-12-10 17:55:10 +0530",
+      "minecraft:river": "2025-12-10 17:55:25 +0530",
+      "minecraft:snowy_taiga": "2025-12-10 17:55:15 +0530",
+      "minecraft:snowy_beach": "2025-12-10 17:55:01 +0530"
+    },
+    "done": false
+  },
+  "minecraft:recipes/transportation/bamboo_raft": {
+    "criteria": {
+      "in_water": "2025-12-10 17:52:20 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_boat": {
+    "criteria": {
+      "in_water": "2025-12-10 17:52:20 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_boat": {
+    "criteria": {
+      "in_water": "2025-12-10 17:52:20 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_boat": {
+    "criteria": {
+      "in_water": "2025-12-10 17:52:20 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_boat": {
+    "criteria": {
+      "in_water": "2025-12-10 17:52:20 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_boat": {
+    "criteria": {
+      "in_water": "2025-12-10 17:52:20 +0530"
+    },
+    "done": true
+  },
+  "DataVersion": 3839
+}
